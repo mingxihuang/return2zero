@@ -1,2 +1,2 @@
 # return2zero
-my first ML code - coffee &amp; tea
+my first ML code - coffee &amp; tea classifier
